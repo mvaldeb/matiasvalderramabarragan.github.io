@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Microclimates of (in)security in Santiago: Sensors, sensing and sensations."
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
+excerpt: 'Over the past ten years, a climate of fear and insecurity has developed in Chile. Despite the low homicide and crime rates, Chileans generally feel unsafe. This feeling is widespread in Las Condes, one of the country’s wealthiest municipalities. Inspired by the techno-imaginary of ‘smart cities’, the local government has introduced a series of ‘innovative. and ‘dynamic’ surveillance technologies as part of its effort to manage and secure urban spaces and wage a‘ war on crime’. These measures include the deployment of aerostatic surveillance balloons and more recently, highly sophisticated drones that deliver ‘personalised warnings’ in parks and streets. These drones and balloons offer the municipality a new vertical perspective and allow it to have a presence in the air so that it can give the residents a feeling of security. However, residents and local organisations have protested against the use of these technologies, citing profound over-surveillance and raising important questions about the use of these security devices. In this chapter, we argue that vertical surveillance capacities must be analysed not only in terms of the surveillance and control that they generate, but also the affective atmospheres that they deploy in the urban space and the ways in which these atmospheres are activated or resisted by residents. We reflect on how these technologies open up an affective mode of governance by air in an effort to establish atmospheres or micro-climates in which one experiences (un)expected sensations such as safety, disgust or indifference.'
+date: 2021-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'https://www.matteringpress.org/books/sensing-insecurity'
+citation: 'Tironi, M., & Valderrama, M. (2021). Microclimates of (in)security in Santiago: Sensors, sensing and sensations. In Klimburg-Witjes, N., Poechhacker, N. & Bowker, G.C. (Eds.).  <i>Sensing In/Security: Sensors as Transnational Security Infrastructures</i>(pp. 50-75). Mattering Press. '
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Over the past ten years, a climate of fear and insecurity has developed in Chile. Despite the low homicide and crime rates, Chileans generally feel unsafe. This feeling is widespread in Las Condes, one of the country’s wealthiest municipalities. Inspired by the techno-imaginary of ‘smart cities’, the local government has introduced a series of ‘innovative. and ‘dynamic’ surveillance technologies as part of its effort to manage and secure urban spaces and wage a‘ war on crime’. These measures include the deployment of aerostatic surveillance balloons and more recently, highly sophisticated drones that deliver ‘personalised warnings’ in parks and streets. These drones and balloons offer the municipality a new vertical perspective and allow it to have a presence in the air so that it can give the residents a feeling of security. However, residents and local organisations have protested against the use of these technologies, citing profound over-surveillance and raising important questions about the use of these security devices. In this chapter, we argue that vertical surveillance capacities must be analysed not only in terms of the surveillance and control that they generate, but also the affective atmospheres that they deploy in the urban space and the ways in which these atmospheres are activated or resisted by residents. We reflect on how these technologies open up an affective mode of governance by air in an effort to establish atmospheres or micro-climates in which one experiences (un)expected sensations such as safety, disgust or indifference
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://www.matteringpress.org/books/sensing-insecurity)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Tironi, M., & Valderrama, M. (2021). Microclimates of (in)security in Santiago: Sensors, sensing and sensations. In Klimburg-Witjes, N., Poechhacker, N. & Bowker, G.C. (Eds.).  <i>Sensing In/Security: Sensors as Transnational Security Infrastructures</i>(pp. 50-75). Mattering Press. 
