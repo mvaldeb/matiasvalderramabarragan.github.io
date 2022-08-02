@@ -8,8 +8,7 @@ venue: 'The Information Society'
 paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/01972243.2022.2027587?journalCode=utis20'
 citation: 'Tironi, M., & Valderrama, M. (2022). Worth-making in a datafied world: Urban cycling, smart urbanism, and technologies of justification in Santiago de Chile. <i>The Information Society</i>, 38(2), 100-116.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+In a milieu marked by increasing quantification of social life, many digital devices have emerged under the promise of a revolutionary change in areas such as urban planning and governance of Smart City projects. Starting from a pragmatist approach based on Boltanski and Thévenot’s “orders of worth” framework, we argue that the promoters of digital devices must justify their worth by developing “technologies of justification” that go beyond data. In this article, we use a multi-case study of three digital devices—RUBI, Kappo, and Bikelite—for urban cycling created in Santiago de Chile to analyze the material, narrative, and economic technologies of justification mobilized to establish the worth of the data that these devices extract, analyze, and visualize for urban governance. This comparative analysis helps us problematize the homogeneous, neutral, and efficiency-focused valuations that are typically ascribed to these devices by laying out the wide range of operations that are used to justify and secure the embedding of these digital devices in societies. We conclude by offering a series of analytical clues to what may be a new order of worth, or what we conceptualize as the “datafied world."
+[Download paper here](https://www.tandfonline.com/doi/abs/10.1080/01972243.2022.2027587?journalCode=utis20)
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: 'Tironi, M., & Valderrama, M. (2022). Worth-making in a datafied world: Urban cycling, smart urbanism, and technologies of justification in Santiago de Chile. <i>The Information Society</i>, 38(2), 100-116.'
